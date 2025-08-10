@@ -7,7 +7,7 @@
 
 ---
 
-##About This Repository
+## About This Repository
 
 Hi people,  
 This repo is my **personal JavaScript learning log** — a place where I document code snippets, mini-projects, notes, and experiments as I progress from beginner to advanced.
@@ -38,7 +38,7 @@ Whether it’s **basic syntax**, **DOM manipulation**, **ES6+ features**, or **b
 
 ---
 
-## 🌟 Support
+## Support
 
 If you like my learning journey:
 - ⭐ [Star this repo](https://github.com/Krish-Anand-dev/Java-Script)
