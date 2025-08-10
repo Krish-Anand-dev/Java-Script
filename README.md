@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-Learning-yellow?logo=javascript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/Krish-Anand-dev/Java-Script?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Krish-Anand-dev/Java-Script?style=for-the-badge" />
 </p>
 
 ---
