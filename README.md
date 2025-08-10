@@ -9,7 +9,7 @@
 
 ##About This Repository
 
-Welcome!  
+Hi people,  
 This repo is my **personal JavaScript learning log** — a place where I document code snippets, mini-projects, notes, and experiments as I progress from beginner to advanced.
 
 Whether it’s **basic syntax**, **DOM manipulation**, **ES6+ features**, or **backend with Node.js**, it’s all going to be here!
