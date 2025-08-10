@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-Learning-yellow?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/Krish-Anand-dev/your-repo?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Krish-Anand-dev/Java-Script?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Krish-Anand-dev/Java-Script?style=for-the-badge" />
 </p>
 
 ---
@@ -42,8 +42,8 @@ Whether it’s **basic syntax**, **DOM manipulation**, **ES6+ features**, or **b
 ## 🌟 Support
 
 If you like my learning journey:
-- ⭐ **Star this repo**
-- 😊 Follow me on GitHub
+- ⭐ [Star this repo](https://github.com/Krish-Anand-dev/Java-Script)
+- 🖤 Follow me on GitHub: [@Krish-Anand-dev](https://github.com/Krish-Anand-dev)
 - 🍵 Buy me a coffee *(optional)*
 
 
