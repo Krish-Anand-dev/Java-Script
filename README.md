@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-Learning-yellow?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/your-username/your-repo?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Krish-Anand-dev/your-repo?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge" />
 </p>
 
@@ -14,8 +14,6 @@ Welcome!
 This repo is my **personal JavaScript learning log** — a place where I document code snippets, mini-projects, notes, and experiments as I progress from beginner to advanced.
 
 Whether it’s **basic syntax**, **DOM manipulation**, **ES6+ features**, or **backend with Node.js**, it’s all going to be here!
-
----
 
 
 ---
